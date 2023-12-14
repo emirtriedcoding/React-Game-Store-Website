@@ -11,7 +11,7 @@
 * Dynamic Cart and Favorites 
 * And more ...
 
-###Demo 
+### Demo 
 ![Desktop Demo](main.png)
 ![Mobile Demo](phone.png)
 
