@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "name": "Spider Man",
+    "price": 113,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/spiderman.png",
+    "prevImg": "../images/prev/spiderman.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "BattleField 2042",
+    "price": 120,
+    "cat": "Battle Royale",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/battlefield.jpg",
+    "prevImg": "../images/prev/battlefield.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cyber Punk",
+    "price": 109,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/cyberpunk.jpg",
+    "prevImg": "../images/prev/cyberpunk.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Devil May Cry",
+    "price": 89,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/dmc.png",
+    "prevImg": "../images/prev/dmc.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "FarCry New Dawn",
+    "price": 73,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/farcry.jpg",
+    "prevImg": "../images/prev/farcry.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "God Of War",
+    "price": 121,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/gow.jpg",
+    "prevImg": "../images/prev/gow.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Halo",
+    "price": 134,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/halo.jpg",
+    "prevImg": "../images/prev/halo.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "Spider Man Miles Morals",
+    "price": 103,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/milesmorals.png",
+    "prevImg": "../images/prev/milesmorals.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "Mortal Kombat",
+    "price": 134,
+    "cat": "Fighting",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/mortalkombat.jpg",
+    "prevImg": "../images/prev/mortalkombat.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Need For Speed PayBack",
+    "price": 87,
+    "cat": "Racing",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/payback.jpg",
+    "prevImg": "../images/prev/needforspeed.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 11,
+    "name": "Rainbow Six Siege",
+    "price": 100,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/r6.jpg",
+    "prevImg": "../images/prev/r6.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 12,
+    "name": "Red Dead",
+    "price": 115,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/reddead.jpg",
+    "prevImg": "../images/prev/reddead.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 13,
+    "name": "Assassins Creed Valhalla",
+    "price": 119,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/valhalla.jpg",
+    "prevImg": "../images/prev/assassinscreed.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 14,
+    "name": "Watch Dogs",
+    "price": 134,
+    "cat": "Action",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/watchdogs.jpg",
+    "prevImg": "../images/prev/watchdogs.jpg",
+    "active": false,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  },
+
+  {
+    "id": 15,
+    "name": "COD Warzone",
+    "price": 102,
+    "cat": "Battle Royale",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi",
+    "bgImg": "../images/bg/wz.jpg",
+    "prevImg": "../images/prev/wz.png",
+    "active": true,
+    "isAvailable": [
+      { "id": 1, "for": "PC", "active": true },
+      { "id": 2, "for": "XBOX", "active": false },
+      { "id": 3, "for": "PS", "active": false }
+    ]
+  }
+]

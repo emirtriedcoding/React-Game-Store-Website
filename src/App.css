@@ -1,0 +1,30 @@
+/* WebKit (Safari/Chrome) */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #00CED1;
+    border-radius: 20px;
+  }
+  
+  /* Firefox */
+  ::-moz-scrollbar {
+    width: 8px;
+  }
+  
+  ::-moz-scrollbar-thumb {
+    background-color: #00CED1;
+    border-radius: 20px;
+  }
+  
+  /* IE/Edge */
+  ::-ms-scrollbar {
+    width: 8px;
+  }
+  
+  ::-ms-scrollbar-thumb {
+    background-color: #00CED1;
+    border-radius: 20px;
+  }
+  
