@@ -12,8 +12,8 @@
 * And more ...
 
 ###Demo 
-![Desktop Demo](images/main.png)
-![Mobile Demo](images/phone.png)
+![Desktop Demo](main.png)
+![Mobile Demo](phone.png)
 
 
 
